@@ -17,4 +17,5 @@ print(type(1 + 3j)) # Tipo (complex)
 print(type(False)) # Tipo (bool)
 
 
+print(type(print("Mi cadena de texto"))) # Tipo (string)
 
